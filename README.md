@@ -1,4 +1,4 @@
-# hivorigins
+# hiv_central_Africa
 
 This repository contains the alignments, XMLs and supplementary information related to the manuscript:
 
