@@ -1,4 +1,4 @@
-# hiv_central_Africa
+# Distinct rates and patterns of spread of the major HIV-1 subtypes in Central and East Africa
 
 This repository contains the alignments, XMLs and supplementary information related to the manuscript:
 
